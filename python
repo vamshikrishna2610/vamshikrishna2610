@@ -1,0 +1,17 @@
+ some important build in functions
+1.help ()-used to describe the specific function
+2.print()-used to display the output on the screen
+3.input()-used to read the input fro user
+         it returns string  value as the input
+4.type()-it is used to retirn the type of data or datatype
+
+5.id()-used to return the unique id of a  variable
+6.abs()-used to return the absolute value
+7.POW()-used to find the power of a value pow(x,y)=x*y
+        pow(x*y*z)=x**y%z
+8. max()- used to find the maximum value
+9.min()-use dto find the minimum value
+
+10.sum()
+11.round()
+12.divmod()
