@@ -1,0 +1,8 @@
+ some important build in functions
+1.help ()-used to describe the specific function
+2.print()-used to display the output on the screen
+3.input()-used to read the input fro user
+         it returns string  value as the input
+4.type()-it is used to retirn the type of data or datatype
+
+    
